@@ -1,6 +1,4 @@
 ---@meta
-require("tile")
-
 ---@class NodeDefinition
 local NodeDefinition = {}
 
